@@ -1,6 +1,10 @@
 # Solar-System-AR
 > A Unity project along with all assets, showcasing our Solar System along with all the 8 planets revolving around the Sun and rotating on their axis.
 
+# Download Build
+- You can download the latest release from below.
+- [https://drive.google.com/open?id=19rgejG0MXCXRr4vF4SMtgmgsVVhr6vY-](https://drive.google.com/open?id=19rgejG0MXCXRr4vF4SMtgmgsVVhr6vY-)
+
 ## Note
 - A *Vuforia license* (free/paid) is required for building this project for Android/iOS.
 - The Image target needs to be changed before building the project.
