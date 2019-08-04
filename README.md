@@ -6,7 +6,7 @@
 
 # Quickstart
 - Download [Unity](https://unity3d.com/get-unity/download/archive) version 2018 or above.
-- Download Microsoft [Visual Studio Community 2017](https://visualstudio.microsoft.com/).
+- Download Microsoft [Visual Studio Community](https://visualstudio.microsoft.com/).
 - Platform specific SDK such as Android build tools are also required.
 
 ## How to Use?
