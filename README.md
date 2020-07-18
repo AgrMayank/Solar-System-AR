@@ -1,5 +1,12 @@
 # Solar-System-AR
-> A Unity project along with all assets, showcasing our Solar System along with all the 8 planets revolving around the Sun and rotating on their axis.
+ A Unity project along with all assets, showcasing our Solar System along with all the 8 planets revolving around the Sun and rotating on their axis.
+
+![GitHub issues](https://img.shields.io/github/issues/AgrMayank/Solar-System-AR?label=Issues&style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AgrMayank/Solar-System-AR?label=Pull%20Requests&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/AgrMayank/Solar-System-AR?label=Last%20Commit&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AgrMayank/Solar-System-AR?label=Commit%20Activity&style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/AgrMayank/Solar-System-AR/total?label=Downloads&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/Solar-System-AR?label=Repo%20Size&style=flat-square)
 
 # Demo
 YouTube URL - https://youtu.be/aomUsM1WbCk
