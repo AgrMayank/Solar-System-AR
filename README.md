@@ -10,9 +10,11 @@ all the 8 planets revolving around the Sun and rotating on their axis.
 ![GitHub All Releases](https://img.shields.io/github/downloads/AgrMayank/Solar-System-AR/total?label=Downloads&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/Solar-System-AR?label=Repo%20Size&style=flat-square)
 
+<!--
 # PlanetsAR
 
 Get the new project here - https://github.com/AgrMayank/PlanetsAR
+-->
 
 # Demo
 
